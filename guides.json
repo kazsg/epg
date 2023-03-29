@@ -1,3 +1,4 @@
 [
-{"site":"digi_upc.hu","lang":"hu","days":3,"url":"https://gitlab.com/tvg1/epg/-/raw/master/digi_upc.xml" }
+{"site":"digi_upc.hu","lang":"hu","days":3,"url":"https://gitlab.com/tvg1/epg/-/raw/master/digi_upc.xml" },
+{"site":"greece_cyprus.el","lang":"el","days":3,"url":"https://github.com/GreekTVApp/epg-greece-cyprus/releases/download/EPG/epg.xml.gz" }
 ]
